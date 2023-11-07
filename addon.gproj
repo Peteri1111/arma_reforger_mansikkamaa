@@ -1,0 +1,8 @@
+GameProject {
+ ID "mansikkamaa"
+ GUID "5ECEA80AFB09C49C"
+ TITLE "mansikkamaa"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

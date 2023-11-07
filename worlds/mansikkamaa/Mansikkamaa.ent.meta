@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{00B817500CFA5A44}worlds/mansikkamaa/Mansikkamaa.ent"
+ Configurations {
+  ENTResourceClass PC {
+  }
+  ENTResourceClass XBOX_ONE : PC {
+  }
+  ENTResourceClass XBOX_SERIES : PC {
+  }
+  ENTResourceClass PS4 : PC {
+  }
+  ENTResourceClass HEADLESS : PC {
+  }
+ }
+}
