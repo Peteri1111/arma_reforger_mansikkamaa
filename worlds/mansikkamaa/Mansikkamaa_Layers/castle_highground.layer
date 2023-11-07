@@ -1,0 +1,19 @@
+GenericEntity {
+ components {
+  MeshObject "{5ECEA802902299FB}" {
+   Object "{0E7110E65128B6C3}Assets/Structures/Houses/Prefabricated/House_Prefab_2I01/House_Prefab_2I01.xob"
+  }
+ }
+ coords 8583.72 21.125 9505.119
+}
+SCR_DestructibleBuildingEntity : "{270493CAE0CF24E4}PrefabLibrary/Structures/Landmarks/Castle_01_Tower.et" {
+ coords 8620.404 0 9549.814
+ angleY 0
+}
+SCR_DestructibleBuildingEntity : "{34D88C9132A17F8F}Prefabs/Structures/Houses/Prefrabricated/House_Prefab_2I01/House_Prefab_2I01_v2.et" {
+ coords 8571.839 -0.001 9529.063
+}
+SCR_DestructibleBuildingEntity : "{ACCE1E281C0C1DAB}Prefabs/Structures/Houses/Prefrabricated/House_Prefab_2I02/House_Prefab_2I02t.et" {
+ coords 8593.256 -0.001 9531.815
+ angleY -31.952
+}
